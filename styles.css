@@ -1,7 +1,7 @@
 body {
-    margin: 0;
-    padding: 0;
-    background-image: "./images/gengar.jpg";
+    margin: 100;
+    padding: 100;
+    background: rgb(169, 6, 245);
   }
   
   .eyes {
@@ -31,9 +31,3 @@ body {
     transform: translate(-50%, -50%);
     border-radius: 50%;
   }
-  .img {
-    width: absolute;
-    height: absolute;
-    position: absolute;
-  }
-  
