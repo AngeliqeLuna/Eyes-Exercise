@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#sparkles-features">Next Updates</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -46,27 +46,25 @@
 
 ## :dart: About ##
 
-Describe your project
+The Eye Movement Exercise is an exercise to understand that in JavaScript, the events are actions that happen on a web page. They could be anything from a mouse moving to a user typing in some text. This task is to have two eyes as an elements and both should follow the mouse position on the screen using the mouse events.
 
-## :sparkles: Features ##
+## :sparkles: Next Updates ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Add instructions;
+Chance to select other cartoon;
+;
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript]
+- [HTML]
+- [CSS]
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Only need a mouse (not the animal)
 
 ## :checkered_flag: Starting ##
 
@@ -91,7 +89,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/AngeliqeLuna" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/AngeliqeLuna" target="_blank">Angelica Luna</a>
 
 &#xa0;
 
