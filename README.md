@@ -47,6 +47,8 @@
 ## :dart: About ##
 
 The Eye Movement Exercise is an exercise to understand that in JavaScript, the events are actions that happen on a web page. They could be anything from a mouse moving to a user typing in some text. This task is to have two eyes as an elements and both should follow the mouse position on the screen using the mouse events.
+<h4>Go to the <a href="https://angeliqeluna.github.io/Eyes-Exercise">DEMO
+</a></h4>
 
 ## :sparkles: Next Updates ##
 
